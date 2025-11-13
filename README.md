@@ -22,5 +22,5 @@ Sin embargo, en el GIF de la solución, ambos cubos han sido seleccionados media
 - [MessageOnGrab.cs](Scripts/MessageOnGrab.cs)  
 
 
-![GIF](Gifs/GIF-E-15.gif)
+![GIF](Gifs/GIF-E-1.gif)
 
