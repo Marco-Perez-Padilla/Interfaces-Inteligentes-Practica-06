@@ -24,6 +24,3 @@ Sin embargo, en el GIF de la solución, ambos cubos han sido seleccionados media
 
 ![GIF](Gifs/GIF-E-15.gif)
 
-
-Como resultado de este ejercicio, se ha generado la siguiente apk:
-- [APK](apk/Practica-05.apk)
